@@ -77,7 +77,7 @@ Illustrates the virtual network architecture including domain controller, client
 ![Network Diagram](screenshots/04-network-diagrams/network-diagram.png)
 
 - Windows Server 2022
-- Windows 10 / Windows 11
+- Windows 10 / Windows 11, Linux (Ubuntu Desktop – daily use)
 - VMware Workstation
 - Active Directory
 - Group Policy
@@ -85,6 +85,7 @@ Illustrates the virtual network architecture including domain controller, client
 - ServiceNow
 - Basic Networking Concepts
 - CMD & PowerShell (basic usage)
+- Version Control: Git & GitHub
 
 ## Career Focus
 
