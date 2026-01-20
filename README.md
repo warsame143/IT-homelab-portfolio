@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an IT professional with hands-on experience building and managing real-world lab environments. This portfolio demonstrates my practical skills in Active Directory, Microsoft 365 administration, ServiceNow ITSM, and networking using VMware.
+Entry-level IT candidate with hands-on lab experience and freelance support work. Familiar with Active Directory, Microsoft 365 administration, ServiceNow ITSM, and basic networking using VMware.
 
 ## Lab Environment Overview
 
