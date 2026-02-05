@@ -67,6 +67,15 @@ Demonstrates full help desk ticket lifecycle from creation to assignment and res
 Shows user records used for end-user support and incident handling.
 ![ServiceNow Users](screenshots/03-servicenow/03-users/user-list.png)
 
+### 05. Linux Scripting – System Health Check
+
+- Built a custom Bash script on Ubuntu Linux to perform a system health check
+- Displayed uptime, memory usage, disk usage, and internet connectivity
+- IP address intentionally hidden for public GitHub sharing
+- Script executed manually from the terminal (no automation)
+
+![Daily Linux health check output](screenshots/05-linux-scripting/daily-linux-health-check-output.png)
+
 ## Tools & Technologies Used
 
 **Home Lab Network Diagram**  
