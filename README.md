@@ -74,7 +74,7 @@ Shows user records used for end-user support and incident handling.
 - IP address intentionally hidden for public GitHub sharing
 - Script executed manually from the terminal (no automation)
 
-![Daily Linux health check output](screenshots/05-linux-scripting/daily-linux-health-check-output.png)
+![Daily Linux health check output](screenshots/05-linux-scripting/Daily-Linux-health-check-output.png)
 
 ## Tools & Technologies Used
 
