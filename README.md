@@ -4,6 +4,23 @@
 
 Entry-level IT candidate with hands-on lab experience and freelance support work. Familiar with Active Directory, Microsoft 365 administration, ServiceNow ITSM, and basic networking using VMware.
 
+## 👨‍💻 About This Portfolio
+
+This repository documents my hands-on IT home lab projects built in a VMware-based enterprise-style environment.
+
+Technologies and systems covered include:
+
+- Windows Server 2022 (Domain Controller)
+- Active Directory & Group Policy (GPO)
+- DNS & DHCP configuration
+- Microsoft 365 & Entra ID
+- ServiceNow (ITSM workflows & incident management)
+- Ubuntu Linux administration & Bash scripting
+- RAID configuration & disk management
+- Backup automation in virtualized environments
+
+The goal of this lab is to simulate real-world IT Support and System Administration scenarios.
+
 ## Lab Environment Overview
 
 - VMware Workstation running on Windows 11
@@ -74,8 +91,6 @@ Shows user records used for end-user support and incident handling.
 - IP address intentionally hidden for public GitHub sharing
 - Script executed manually from the terminal (no automation)
 
-![Daily Linux health check output](screenshots/05-linux-scripting/Daily-Linux-health-check-output.png)
-
 ## Tools & Technologies Used
 
 **Home Lab Network Diagram**  
@@ -103,3 +118,10 @@ Seeking opportunities in:
 - IT Support / Helpdesk
 - Junior System Administrator
 - Desktop Support
+
+## 📄 Resume
+
+My resume is available upon request.
+
+Connect with me on LinkedIn:
+IT-homelab-portfolio/portfolio-site
